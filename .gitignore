@@ -1,8 +1,0 @@
-# built programs are published as release files, not kept in the repository
-/KCVP_File_Repair.exe
-/KCVP_File_Repair
-build/
-dist/
-__pycache__/
-*.pyc
-source/bin/jfix
